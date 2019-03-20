@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="16px" height="16px" viewBox="0 0 16 16" enable-background="new 0 0 16 16" xml:space="preserve">
+<rect opacity="0" fill="#C9C9C9" width="16" height="16"/>
+<path fill="#7F2611" d="M8,15c-3.86,0-7-3.14-7-7s3.14-7,7-7s7,3.14,7,7S11.86,15,8,15z"/>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="7.9995" y1="2.3364" x2="7.9995" y2="16.4198">
+	<stop  offset="0" style="stop-color:#D16032"/>
+	<stop  offset="1" style="stop-color:#CE5A2C"/>
+</linearGradient>
+<circle fill="url(#SVGID_1_)" cx="8" cy="8" r="6"/>
+<g>
+	
+		<image overflow="visible" opacity="0.3" width="12" height="15" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAPCAYAAADQ4S5JAAAACXBIWXMAAAsSAAALEgHS3X78AAAA
+GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAPdJREFUeNqU0k9Lw0AQhvEkm7S1
+RSVVQYtQRa/itfT73wR76UWQHgRBRGl6kNbETXxW3i0hpEIDP9JuZnZm/wTB7idsGzQtYxFiJEqq
+/ktwwQcYIlXCD0ofEDeSXfAI1+jiGRsUzQQ/8yXucYsMr/q2bc3/cf2eKniKG1WMVCnR77/BULNf
+YYI79PEFq8BvKU2tQqr+j5Rwhgt08KkWC1Pbb6sFupkOldzDOxb4QO63tdJO5GpvjAFe8IgnrNyk
+9YRSazrBOZZ4wAxvqlw1Dy5WG1ZnMNfWrv3hhY27k2jRx1pPprfddcFCVTEKsvVrEex7U93zK8AA
+dhc15UyMPdsAAAAASUVORK5CYII=" transform="matrix(1 0 0 1 2 0)">
+	</image>
+	<g>
+		<polygon fill="#FFFFFF" points="11,7 9.499,7 7.249,7 8.75,3 5,8 6.5,8 8.75,8 7.249,12 		"/>
+	</g>
+</g>
+<polygon fill="#FFFFFF" points="11,7 9.499,7 7.249,7 8.75,3 5,8 6.5,8 8.75,8 7.249,12 "/>
+</svg>
